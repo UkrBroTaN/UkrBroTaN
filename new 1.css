@@ -1,0 +1,30 @@
+img{
+	min-height: 444;
+	min-width: 1266;
+}
+
+.skuf {/*гіперсилка*/
+	font-size: 52;
+	color: blue;
+}
+.skuf1{/*текс після силки*/
+	font-size: 52;
+	color: black;
+}
+.skuf2{/*основний текст*/
+	font-size: 54;
+	color: black;
+}
+h1{
+	font-size: 63;
+	color: black;
+}
+/*th{
+	color: white;
+	font-size: 54;
+}*/
+
+.container {
+	margin: 0 8%;
+	background-color: white;
+}
