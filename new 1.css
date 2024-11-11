@@ -6,19 +6,19 @@ img{
 }
 
 .skuf {/*гіперсилка*/
-	font-size: 72;
+	font-size: 70;
 	color: blue;
 }
 .skuf1{/*текс після силки*/
-	font-size: 72%;	
+	font-size: 70%;	
 	color: black;
 }
 .skuf2{/*основний текст*/
-	font-size: 72;
+	font-size: 70;
 	color: black;
 }
 h1{
-	font-size: 84;
+	font-size: 82;
 	color: black;
 }
 .container {
