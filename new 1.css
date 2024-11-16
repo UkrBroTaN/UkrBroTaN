@@ -25,9 +25,3 @@ h1{
 	margin: 0 8%;
 	background-color: white;
 }
-@media screen and (prefers-color-scheme: dark) {
-  body {
-    background: black;
-    color: white;
-      }
-}
