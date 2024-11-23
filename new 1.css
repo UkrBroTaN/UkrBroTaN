@@ -14,7 +14,7 @@ img{
 	color: black;
 }
 .skuf2{/*основний текст*/
-	font-size: 65;
+	font-size: 45;
 	color: black;
 }
 h1{
@@ -57,3 +57,6 @@ nav ul li a:hover {
     background-color: #555; /* Зміна фону при наведенні курсора */
     border-radius: 4px; /* Закруглені кути */
 }
+/*h6 {
+	font-size: 
+}*/
