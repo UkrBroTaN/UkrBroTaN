@@ -57,6 +57,7 @@ nav ul li a:hover {
     background-color: #555; /* Зміна фону при наведенні курсора */
     border-radius: 4px; /* Закруглені кути */
 }
-/*h6 {
-	font-size: 
-}*/
+h6 {
+	font-size: 50;
+	color: black;
+}
