@@ -29,40 +29,9 @@ h1{
 	font-size: 1;
 	color: black;
 }
-nav {
-    background-color: grey; /* Темний фон для меню */
-    padding: 2%; /* Відступи з усіх боків */
-}
-
-nav ul {
-    list-style-type: none; /* Прибираємо маркери списку */
-    margin: 0; /* Видаляємо зовнішні відступи */
-    padding: 0; /* Видаляємо внутрішні відступи */
-    display: flex; /* Використовуємо гнучке вирівнювання для горизонтального меню */
-    gap: 2%; /* Відстань між пунктами меню */
-}
-
-nav ul li {
-    display: inline; /* Робимо кожен пункт списку рядковим */
-}
-
-nav ul li a {
-    color: white; /* Колір тексту посилань */
-    text-decoration: none; /* Прибираємо підкреслення посилань */
-    padding: 1% 2%; /* Відступи навколо тексту посилань */
-    display: inline-block; /* Додаємо блоковий режим для відступів */
-}
-
-nav ul li a:hover {
-    background-color: #555; /* Зміна фону при наведенні курсора */
-    border-radius: 4%; /* Закруглені кути */
-}
 h6 {
 	font-size: 50;
 	color: black;
 	margin: 1%;
     padding: 1%;
-}
-html {
-    scroll-behavior: smooth;
 }
