@@ -35,3 +35,16 @@ h6 {
 	margin: 1%;
     padding: 1%;
 }
+.skuf4 a{/*навігація*/
+	font-size: 45;
+	color: #111 !important;
+	text-decoration: none;
+}
+.skuf4 ul{
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+}
+HTML{
+	scroll-behavior: smooth
+}
